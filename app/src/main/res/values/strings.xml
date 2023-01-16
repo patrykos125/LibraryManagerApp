@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Library Manager</string>
+    //mainActivity
+    <string name="addReader">Dodaj Czytelnika </string>
+    <string name="addBook">Dodaj Ksiażkę </string>
+    <string name="borrowBook">Wypożycz Książkę </string>
+    <string name="returnBook">Zwróć Książkę </string>
+    //addReaderActivity
+    <string name="Firstname">Imię</string>
+    <string name="LastName">Nazwisko</string>
+    <string name="PostalCode">Kod Pocztowy</string>
+    <string name="Street">Ulica</string>
+    <string name="PhoneNumber">Numer Telefonu</string>
+    <string name="Add">Dodaj </string>
+    //addBookActivity
+    <string name="Title">Tytuł </string>
+    <string name="Author">Autor </string>
+    <string name="PublishYear">Rok Wydania </string>
+    <string name="BooksQuantity">Ilość Książek </string>
+    //toastReader
+    <string name="WrongFirstNameToast">Nieprawidłowe imię </string>
+    <string name="WrongLastNameToast">Nieprawidłowe nazwisko </string>
+    <string name="WrongPostalCodeToast">Nieprawidłowe kod pocztowy </string>
+    <string name="WrongStreetToast">Nieprawidłowa ulica </string>
+    <string name="WrongPhoneNumberToast">Nieprawidłowy numer telefonu </string>
+    //toastReader ok
+    <string name="ReaderAddToDatabaseToast">Czytelnik został dodany do systemu</string>
+    //toastBook
+    <string name="WrongTitleToast">Nieprawidłowy tytuł </string>
+    <string name="WrongAuthorToast">Nieprawidłowy autor </string>
+    <string name="WrongPublishYearToast">Nieprawidłowy rok wydania </string>
+    <string name="WrongBookQuantityToast">Nieprawidłowa ilosc książek </string>
+    //toastBookOk
+    <string name="BookAddToDatabaseToast">Książka została dodana do systemu</string>
+    //borrowBook
+    <string name="borrowBookButton">Wypożycz</string>
+    <string name="borrowBookToast">Książka została wypożyczona</string>
+    <string name="invalidBookId">Nie poprawny BookId</string>
+    <string name="invalidReaderId">Nie poprawny ReaderId</string>
+    //returnBookactivity
+    <string name="returnBookLabel">Wpisz ID ksiażki do oddania</string>
+    <string name="returnBookButtonInReturnActivity">Zwróć</string>
+    <string name="returnBookToastInReturnActivity">Książka została zwrócona</string>
+    //showBorrowedBooks
+    <string name="showBorrowedBooksButton">Wypożyczone ksiażki</string>
+
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Library Manager</string>
+    //mainActivity
+    <string name="addReader">Add Reader</string>
+    <string name="addBook">Add Book</string>
+    <string name="borrowBook">Borrow Book </string>
+    <string name="returnBook">Return Book</string>
+    //addReaderActivity
+    <string name="Firstname">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="PostalCode">Postal Code</string>
+    <string name="Street">Street</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="Add">Add</string>
+    //addBookActivity
+    <string name="Title">Title</string>
+    <string name="Author">Author </string>
+    <string name="PublishYear">Publish year</string>
+    <string name="BooksQuantity">Book Quantity</string>
+    //toastReader
+    <string name="WrongFirstNameToast">Invalid First Name</string>
+    <string name="WrongLastNameToast">Invalid Last Name</string>
+    <string name="WrongPostalCodeToast">Invalid Postal Code</string>
+    <string name="WrongStreetToast">Invalid Street Name </string>
+    <string name="WrongPhoneNumberToast">Invalid Phone Number</string>
+    //toastReader ok
+    <string name="ReaderAddToDatabaseToast">The reader has been added</string>
+    //toastBook
+    <string name="WrongTitleToast">Invalid title </string>
+    <string name="WrongAuthorToast">Invalid author </string>
+    <string name="WrongPublishYearToast">Invalid Publish Year</string>
+    <string name="WrongBookQuantityToast">Invalid books quantity  </string>
+    //toastBookOk
+    <string name="BookAddToDatabaseToast">The book has been added</string>
+    //borrowBook
+    <string name="borrowBookButton">Borrow</string>
+    <string name="borrowBookToast">Book  has been borrowed</string>
+    <string name="invalidBookId">Invalid BookId</string>
+    <string name="invalidReaderId">Invalid  ReaderId</string>
+    //returnBookactivity
+    <string name="returnBookLabel">Write BookID to return</string>
+    <string name="returnBookButtonInReturnActivity">Return</string>
+    <string name="returnBookToastInReturnActivity">Book has been returned</string>
+    //showBorrowedBooks
+    <string name="showBorrowedBooksButton">Borrowed Books</string>
+
+
+</resources>
